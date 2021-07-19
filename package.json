@@ -1,0 +1,23 @@
+{
+  "name": "gitignore-cmd",
+  "version": "0.0.1",
+  "description": "快速生成gitignore的命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyu0329/gitignore-cmd.git"
+  },
+  "keywords": [
+    "git",
+    "ignore"
+  ],
+  "author": "liyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeyu0329/gitignore-cmd/issues"
+  },
+  "homepage": "https://github.com/leeyu0329/gitignore-cmd#readme"
+}
